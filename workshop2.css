@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+header{
+    background-color: aqua;
+    position: sticky;
+    height: 80px;
+    
+}
+.parent{
+    display: flex;
+}
+.child2{
+    display: flex;
+    margin-left: 850px;
+}
+.child2 a{
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    
+
+}
+.child2 img{
+    margin-left: 20px;
+    
+}
+.child2 details{
+    margin-left: 20PX;
+    background-color: white;
+}
+.details details{
+    border: 2px solid black;
+}
+.content{
+    text-align: center;
+}
+.content h1{
+    font-size: 60px;
+}
